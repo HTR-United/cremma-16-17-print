@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_19.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="217"
+                   VPOS="191"
+                   WIDTH="518"
+                   HEIGHT="66"
+                   ID="eSc_textblock_952703f1"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="504 196 505 217 730 217 735 251 217 257 222 227 462 222 469 191"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_99418e81"
+                    TAGREFS="LT1"
+                    BASELINE="219 255 732 242" 
+                    HPOS="217"
+                    VPOS="207"
+                    WIDTH="514"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="218 245 217 224 227 219 241 227 253 222 266 227 290 217 317 226 336 218 346 224 373 217 378 222 390 217 416 219 421 213 433 218 438 213 458 213 466 220 511 220 527 218 535 210 570 219 579 209 601 209 606 214 629 207 663 207 682 214 716 210 730 214 731 232 731 254 654 255 639 246 576 258 537 258 528 253 515 259 506 250 467 259 431 258 425 251 343 260 325 255 293 255 288 260 237 257 230 264 218 258"/></Shape>
+	    <String CONTENT="SIBI CANIT IPSA TRIUMPHUM."
+                    HPOS="217"
+                    VPOS="207"
+                    WIDTH="514"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4b4623a"
+                    TAGREFS="LT2"
+                    BASELINE="471 214 491 215" 
+                    HPOS="470"
+                    VPOS="178"
+                    WIDTH="22"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="471 204 473 182 492 178 489 219 470 217"/></Shape>
+	    <String CONTENT="V."
+                    HPOS="470"
+                    VPOS="178"
+                    WIDTH="22"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="248"
+                   VPOS="945"
+                   WIDTH="482"
+                   HEIGHT="97"
+                   ID="eSc_textblock_ceb4e8f6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="623 945 725 950 730 964 699 1006 588 1042 529 1016 274 1006 248 985 248 945"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae82fca9"
+                    TAGREFS="LT1"
+                    BASELINE="248 972 719 972" 
+                    HPOS="248"
+                    VPOS="941"
+                    WIDTH="471"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="248 962 248 949 271 948 279 941 298 948 306 941 333 941 338 946 343 941 367 941 374 949 405 941 412 948 458 949 466 941 492 941 498 948 528 949 554 941 562 949 589 949 601 941 613 941 623 949 719 949 718 980 695 980 685 973 619 980 593 979 588 973 572 980 493 979 487 973 414 980 391 980 381 973 248 980"/></Shape>
+	    <String CONTENT="Victrici ſternit cantu cava buccina muros;"
+                    HPOS="248"
+                    VPOS="941"
+                    WIDTH="471"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ab58ef4"
+                    TAGREFS="LT1"
+                    BASELINE="277 1001 696 1001" 
+                    HPOS="277"
+                    VPOS="976"
+                    WIDTH="419"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="277 990 277 977 285 976 307 981 329 981 336 976 348 981 358 976 372 981 448 981 464 976 480 981 572 981 581 976 615 981 646 976 696 980 696 1008 661 1010 654 1016 634 1008 559 1008 551 1016 546 1011 517 1011 511 1016 469 1011 454 1016 449 1011 425 1015 416 1010 399 1016 374 1016 365 1010 358 1016 303 1010 297 1016 277 1016"/></Shape>
+	    <String CONTENT="Non igitur vox eſt, prætereáque nihil."
+                    HPOS="277"
+                    VPOS="976"
+                    WIDTH="419"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36907bfd"
+                    TAGREFS="LT1"
+                    BASELINE="550 1033 611 1033" 
+                    HPOS="550"
+                    VPOS="1006"
+                    WIDTH="61"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="550 1023 550 1015 562 1006 572 1006 581 1015 611 1007 611 1047 597 1047 590 1041 566 1041 559 1046 550 1042"/></Shape>
+	    <String CONTENT="A 5"
+                    HPOS="550"
+                    VPOS="1006"
+                    WIDTH="61"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="204"
+                   VPOS="319"
+                   WIDTH="563"
+                   HEIGHT="554"
+                   ID="eSc_textblock_ae578f75"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="204 319 204 873 767 873 767 319"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

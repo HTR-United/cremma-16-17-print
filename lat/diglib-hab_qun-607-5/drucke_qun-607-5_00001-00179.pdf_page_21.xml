@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_21.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="201"
+                   VPOS="950"
+                   WIDTH="518"
+                   HEIGHT="66"
+                   ID="eSc_textblock_c4fa9ed5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="714 950 719 970 688 1016 222 1016 201 985 201 955 484 950"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_538136ed"
+                    TAGREFS="LT1"
+                    BASELINE="201 982 712 975" 
+                    HPOS="199"
+                    VPOS="945"
+                    WIDTH="511"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="200 972 199 955 204 951 245 951 262 959 276 953 290 958 310 951 327 957 341 950 358 958 373 949 405 949 412 955 423 949 439 955 495 955 504 948 523 954 535 946 545 946 553 954 562 946 579 946 586 954 617 954 704 945 709 948 710 964 709 982 668 977 646 982 625 977 616 984 602 979 584 979 579 984 551 979 538 985 522 980 517 985 454 986 381 981 367 988 354 982 272 988 200 984"/></Shape>
+	    <String CONTENT="Talibus exoritur Phœbus, qui ſtertere pergunt;"
+                    HPOS="199"
+                    VPOS="945"
+                    WIDTH="511"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df98bae8"
+                    TAGREFS="LT1"
+                    BASELINE="223 1011 694 1003" 
+                    HPOS="222"
+                    VPOS="979"
+                    WIDTH="470"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="222 1001 222 990 228 985 277 990 324 984 337 989 345 984 361 989 533 986 549 980 559 985 579 985 584 980 612 985 619 979 639 979 644 984 686 979 692 993 691 1019 654 1019 646 1013 635 1017 628 1010 553 1011 535 1021 519 1013 510 1019 471 1013 456 1023 420 1023 414 1017 390 1023 381 1016 345 1024 332 1016 324 1024 311 1024 305 1017 236 1017 222 1024"/></Shape>
+	    <String CONTENT="Cernere naſcentem non meruêre DEUM."
+                    HPOS="222"
+                    VPOS="979"
+                    WIDTH="470"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="268"
+                   VPOS="191"
+                   WIDTH="406"
+                   HEIGHT="76"
+                   ID="eSc_textblock_2e0aa2ba"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="498 196 500 227 669 227 674 262 268 267 289 232 436 232 453 191"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_61aa3c24"
+                    TAGREFS="LT1"
+                    BASELINE="271 267 672 255" 
+                    HPOS="268"
+                    VPOS="215"
+                    WIDTH="402"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="270 257 268 238 281 235 320 237 327 231 342 233 360 226 377 235 426 229 433 235 467 233 510 218 536 228 553 217 577 215 613 215 625 224 669 227 670 245 670 263 650 263 641 257 581 266 359 264 343 272 314 273 270 268"/></Shape>
+	    <String CONTENT="ORITUR ViGILAVTIES."
+                    HPOS="268"
+                    VPOS="215"
+                    WIDTH="402"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7680208d"
+                    TAGREFS="LT2"
+                    BASELINE="451 219 496 217" 
+                    HPOS="447"
+                    VPOS="170"
+                    WIDTH="48"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="449 209 447 171 492 170 495 223 449 223"/></Shape>
+	    <String CONTENT="VI."
+                    HPOS="447"
+                    VPOS="170"
+                    WIDTH="48"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="207"
+                   VPOS="346"
+                   WIDTH="581"
+                   HEIGHT="572"
+                   ID="eSc_textblock_03ab678b"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="207 346 207 918 788 918 788 660 788 346"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

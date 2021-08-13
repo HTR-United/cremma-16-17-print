@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_31.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="320"
+                   VPOS="144"
+                   WIDTH="303"
+                   HEIGHT="66"
+                   ID="eSc_textblock_3330fe49"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="509 149 515 180 617 180 623 205 320 210 330 180 452 180 458 144"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dbd6674e"
+                    TAGREFS="LT2"
+                    BASELINE="457 173 506 170" 
+                    HPOS="454"
+                    VPOS="140"
+                    WIDTH="50"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="456 162 454 149 475 140 504 147 501 176 456 175"/></Shape>
+	    <String CONTENT="XI."
+                    HPOS="454"
+                    VPOS="140"
+                    WIDTH="50"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="243"
+                   VPOS="904"
+                   WIDTH="513"
+                   HEIGHT="97"
+                   ID="eSc_textblock_cd1d9c26"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="709 904 756 954 750 970 624 975 603 1001 560 975 274 970 243 939 248 909 401 904"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fde12af4"
+                    TAGREFS="LT1"
+                    BASELINE="245 935 710 931" 
+                    HPOS="243"
+                    VPOS="895"
+                    WIDTH="466"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="244 924 243 906 257 899 271 899 279 906 394 906 404 897 431 905 439 897 502 905 511 899 524 902 540 897 546 902 554 896 593 904 654 904 659 899 686 899 691 904 705 895 709 920 704 937 659 932 639 937 586 932 570 937 555 932 535 939 483 939 475 933 465 939 421 933 395 940 342 935 244 939"/></Shape>
+	    <String CONTENT="Si natura negat vigiles producere noctes;"
+                    HPOS="243"
+                    VPOS="895"
+                    WIDTH="466"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_837a482d"
+                    TAGREFS="LT1"
+                    BASELINE="272 963 748 963" 
+                    HPOS="272"
+                    VPOS="933"
+                    WIDTH="476"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="272 953 272 941 285 935 297 940 330 940 339 935 363 941 408 941 414 936 426 941 464 941 473 935 479 941 536 941 549 933 568 939 593 933 608 941 642 941 660 933 696 941 709 933 748 933 748 968 717 979 679 968 663 979 652 970 635 979 624 967 567 967 557 975 515 970 498 979 460 979 452 971 433 970 395 977 378 970 351 979 306 979 298 971 272 970"/></Shape>
+	    <String CONTENT="Arte juva: Ars magna eſt, vivere ſcire diu."
+                    HPOS="272"
+                    VPOS="933"
+                    WIDTH="476"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c506f9d"
+                    TAGREFS="LT1"
+                    BASELINE="575 989 618 995" 
+                    HPOS="571"
+                    VPOS="963"
+                    WIDTH="48"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="575 977 579 963 619 976 613 1012 597 998 576 1003 571 999"/></Shape>
+	    <String CONTENT="B 3"
+                    HPOS="571"
+                    VPOS="963"
+                    WIDTH="48"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="245"
+                   VPOS="306"
+                   WIDTH="541"
+                   HEIGHT="531"
+                   ID="eSc_textblock_f9e10599"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="245 306 245 837 786 837 786 306"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_07a0abd0"
+                    TAGREFS="LT1"
+                    BASELINE="327 210 616 205" 
+                    HPOS="325"
+                    VPOS="171"
+                    WIDTH="290"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="325 200 327 178 343 180 359 175 370 180 396 174 454 180 483 175 511 179 518 173 540 179 562 171 590 171 613 176 615 195 613 215 588 210 553 210 541 217 532 211 524 217 325 215"/></Shape>
+	    <String CONTENT="VEL ARTE VIGIL."
+                    HPOS="325"
+                    VPOS="171"
+                    WIDTH="290"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

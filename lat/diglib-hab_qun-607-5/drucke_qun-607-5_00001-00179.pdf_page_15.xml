@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_15.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="263"
+                   VPOS="180"
+                   WIDTH="411"
+                   HEIGHT="71"
+                   ID="eSc_textblock_8e344146"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="498 180 505 211 664 211 674 241 263 251 268 222 436 217 438 180"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7171dbf2"
+                    TAGREFS="LT1"
+                    BASELINE="264 250 668 236" 
+                    HPOS="262"
+                    VPOS="200"
+                    WIDTH="404"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="263 240 262 211 319 220 342 219 352 211 364 218 372 210 382 219 405 219 438 210 449 217 504 215 529 202 550 206 554 201 619 200 630 210 646 210 665 201 666 242 610 240 555 248 527 248 522 242 517 249 460 250 448 245 440 251 421 246 382 253 354 249 336 255 263 254"/></Shape>
+	    <String CONTENT="DINC MENVSA PARATUR."
+                    HPOS="262"
+                    VPOS="200"
+                    WIDTH="404"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b59be38"
+                    TAGREFS="LT2"
+                    BASELINE="439 206 496 204" 
+                    HPOS="438"
+                    VPOS="174"
+                    WIDTH="55"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="438 196 438 175 460 179 493 174 493 211 438 209"/></Shape>
+	    <String CONTENT="III."
+                    HPOS="438"
+                    VPOS="174"
+                    WIDTH="55"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="201"
+                   VPOS="935"
+                   WIDTH="544"
+                   HEIGHT="97"
+                   ID="eSc_textblock_4a5b6f23"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="725 935 745 975 735 1001 624 1006 597 1032 524 1006 222 1006 201 975 201 945 598 935"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2bbdd9da"
+                    TAGREFS="LT1"
+                    BASELINE="202 972 718 955" 
+                    HPOS="200"
+                    VPOS="928"
+                    WIDTH="517"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="201 962 200 944 217 948 246 942 252 948 264 941 286 949 305 940 323 948 343 948 360 940 390 945 420 945 427 937 447 944 467 937 501 942 510 937 560 940 582 931 593 939 621 939 651 937 663 928 691 928 700 933 716 930 717 945 714 963 683 959 641 962 637 967 518 971 400 968 320 977 281 972 267 979 201 980"/></Shape>
+	    <String CONTENT="Liber &amp; alma Ceres ſacre caput atque profanæ"
+                    HPOS="200"
+                    VPOS="928"
+                    WIDTH="517"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac3960c0"
+                    TAGREFS="LT1"
+                    BASELINE="223 1001 731 986" 
+                    HPOS="222"
+                    VPOS="961"
+                    WIDTH="509"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="222 990 222 979 235 975 274 980 283 972 325 979 333 972 364 977 374 970 423 968 449 975 470 968 551 972 611 970 617 964 623 970 643 970 651 962 691 966 700 961 729 961 731 1002 696 1001 685 994 660 1002 652 994 642 994 633 1006 612 1006 601 995 591 995 545 997 528 1008 498 999 486 1010 467 1001 429 1003 422 1011 407 1012 378 1007 347 1013 330 1003 315 1010 297 1004 288 1015 230 1016 222 1011"/></Shape>
+	    <String CONTENT="Sunt Menſæ; Vigilans en dat utrumque labor?"
+                    HPOS="222"
+                    VPOS="961"
+                    WIDTH="509"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aaee38a1"
+                    TAGREFS="LT1"
+                    BASELINE="557 1021 602 1024" 
+                    HPOS="555"
+                    VPOS="994"
+                    WIDTH="47"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="557 1011 557 994 581 1003 602 997 601 1033 579 1023 555 1030"/></Shape>
+	    <String CONTENT="A 3"
+                    HPOS="555"
+                    VPOS="994"
+                    WIDTH="47"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="201"
+                   VPOS="315"
+                   WIDTH="549"
+                   HEIGHT="551"
+                   ID="eSc_textblock_f4a66e1e"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="201 315 201 866 750 866 750 315"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

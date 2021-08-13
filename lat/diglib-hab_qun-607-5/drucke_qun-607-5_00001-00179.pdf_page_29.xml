@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_29.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="315"
+                   VPOS="149"
+                   WIDTH="349"
+                   HEIGHT="80"
+                   ID="eSc_textblock_a268f066"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="519 149 520 180 659 180 664 210 315 229 325 186 467 186 474 149"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fbbcd1a5"
+                    TAGREFS="LT1"
+                    BASELINE="320 217 657 205" 
+                    HPOS="319"
+                    VPOS="165"
+                    WIDTH="337"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="319 206 320 174 348 179 354 173 365 173 377 182 408 175 427 186 465 186 518 182 544 166 597 165 612 179 655 178 656 195 656 218 633 210 615 219 575 220 558 213 544 222 507 215 470 217 460 223 451 217 417 218 391 227 364 222 319 226"/></Shape>
+	    <String CONTENT="SRRIS CLAUSA SEEn"
+                    HPOS="319"
+                    VPOS="165"
+                    WIDTH="337"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e5526cc"
+                    TAGREFS="LT2"
+                    BASELINE="474 175 517 175" 
+                    HPOS="474"
+                    VPOS="147"
+                    WIDTH="43"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="474 165 474 147 517 147 517 183 474 186"/></Shape>
+	    <String CONTENT="X."
+                    HPOS="474"
+                    VPOS="147"
+                    WIDTH="43"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="237"
+                   VPOS="888"
+                   WIDTH="555"
+                   HEIGHT="92"
+                   ID="eSc_textblock_f5facc03"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="766 888 792 913 730 959 648 980 279 964 237 933 243 899 710 888"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e2b17487"
+                    TAGREFS="LT1"
+                    BASELINE="240 928 776 917" 
+                    HPOS="237"
+                    VPOS="886"
+                    WIDTH="538"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="239 918 237 900 246 897 259 902 292 896 333 902 434 895 466 900 479 893 502 897 527 889 585 897 615 896 623 888 668 887 704 895 765 886 774 889 775 906 774 922 757 924 726 919 682 927 664 922 646 928 641 923 637 927 612 922 602 928 575 930 566 923 554 928 538 923 476 932 464 926 443 932 426 927 389 933 333 930 324 935 308 930 297 936 239 936"/></Shape>
+	    <String CONTENT="Virginibus fatuis, extinctâ lampade, clauſa eſt"
+                    HPOS="237"
+                    VPOS="886"
+                    WIDTH="538"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e094f6b"
+                    TAGREFS="LT1"
+                    BASELINE="283 959 731 948" 
+                    HPOS="281"
+                    VPOS="922"
+                    WIDTH="449"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="281 949 281 936 294 933 430 933 458 928 479 932 531 926 579 930 718 922 729 926 730 937 730 954 712 961 635 953 620 963 611 954 593 959 580 954 541 955 522 966 502 966 496 959 479 967 461 961 426 964 421 959 391 959 378 970 358 964 342 970 330 962 281 972"/></Shape>
+	    <String CONTENT="Janua, pandi, oleo ni ſit inuncta, negat."
+                    HPOS="281"
+                    VPOS="922"
+                    WIDTH="449"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de0bd5b2"
+                    TAGREFS="LT1"
+                    BASELINE="599 977 647 975" 
+                    HPOS="597"
+                    VPOS="953"
+                    WIDTH="47"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="598 967 597 953 617 961 644 953 644 995 599 997"/></Shape>
+	    <String CONTENT="B 2"
+                    HPOS="597"
+                    VPOS="953"
+                    WIDTH="47"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="244"
+                   VPOS="320"
+                   WIDTH="537"
+                   HEIGHT="519"
+                   ID="eSc_textblock_8ebced93"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="244 320 260 839 777 829 781 320"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

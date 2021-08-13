@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="350"
+                   VPOS="180"
+                   WIDTH="216"
+                   HEIGHT="66"
+                   ID="eSc_textblock_3dffff72"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="498 180 505 211 566 217 566 246 350 246 355 217 431 217 433 180"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0c87a21f"
+                    TAGREFS="LT1"
+                    BASELINE="355 249 564 241" 
+                    HPOS="352"
+                    VPOS="198"
+                    WIDTH="211"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="354 238 352 218 361 210 382 218 404 204 425 202 434 210 487 214 509 213 526 198 562 202 563 250 511 251 502 245 492 251 423 248 354 258"/></Shape>
+	    <String CONTENT="PRO GREGE."
+                    HPOS="352"
+                    VPOS="198"
+                    WIDTH="211"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c1a12ab"
+                    TAGREFS="LT2"
+                    BASELINE="435 202 498 205" 
+                    HPOS="434"
+                    VPOS="164"
+                    WIDTH="64"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="435 192 435 164 442 171 453 167 471 173 498 166 497 207 480 214 467 214 462 207 434 210"/></Shape>
+	    <String CONTENT="VII."
+                    HPOS="434"
+                    VPOS="164"
+                    WIDTH="64"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="191"
+                   VPOS="955"
+                   WIDTH="544"
+                   HEIGHT="71"
+                   ID="eSc_textblock_be9140d9"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="704 955 735 975 602 1026 237 1026 191 990 211 961 608 955"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6b5ec32e"
+                    TAGREFS="LT1"
+                    BASELINE="195 990 729 979" 
+                    HPOS="192"
+                    VPOS="951"
+                    WIDTH="535"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="193 980 192 962 221 968 227 962 274 967 280 961 316 959 333 966 361 958 417 964 478 963 500 955 537 962 597 961 623 953 656 959 691 951 708 958 726 951 727 968 727 985 716 988 650 989 621 984 577 985 572 990 558 985 549 992 506 986 489 993 315 990 193 998"/></Shape>
+	    <String CONTENT="Ut dormitet ovis, bonus excùbat, ecce ! Magiſter."
+                    HPOS="192"
+                    VPOS="951"
+                    WIDTH="535"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc436368"
+                    TAGREFS="LT1"
+                    BASELINE="217 1019 639 1011" 
+                    HPOS="215"
+                    VPOS="986"
+                    WIDTH="423"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="215 1008 215 998 223 993 302 997 330 992 341 998 352 993 425 997 479 990 496 995 504 988 519 994 529 989 548 994 555 988 570 993 585 986 602 993 608 986 623 986 637 993 638 1001 637 1026 624 1020 611 1026 568 1020 529 1029 507 1029 501 1023 426 1032 400 1025 383 1032 372 1025 365 1032 338 1033 330 1025 305 1025 285 1034 264 1034 253 1026 215 1026"/></Shape>
+	    <String CONTENT="Grex ut ſalvus eat, præda ſit ipſe lupis."
+                    HPOS="215"
+                    VPOS="986"
+                    WIDTH="423"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="212"
+                   VPOS="340"
+                   WIDTH="545"
+                   HEIGHT="557"
+                   ID="eSc_textblock_bf6eb077"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="230 370 212 881 757 897 743 340"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

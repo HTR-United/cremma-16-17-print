@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="299"
+                   VPOS="160"
+                   WIDTH="355"
+                   HEIGHT="60"
+                   ID="eSc_textblock_b0563b54"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="498 160 505 191 648 191 654 220 299 220 315 191 447 191 448 160"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_278213bd"
+                    TAGREFS="LT1"
+                    BASELINE="303 224 650 213" 
+                    HPOS="301"
+                    VPOS="178"
+                    WIDTH="347"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="302 214 301 195 336 196 351 187 376 186 395 191 400 186 430 184 452 192 497 186 509 189 531 180 593 187 608 178 616 186 647 184 648 202 648 217 637 223 611 218 598 224 580 219 571 226 514 227 500 222 493 227 461 223 453 229 418 224 413 231 390 226 378 232 347 227 339 233 333 228 302 233"/></Shape>
+	    <String CONTENT="Noy occipia is Tis."
+                    HPOS="301"
+                    VPOS="178"
+                    WIDTH="347"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0abc888e"
+                    TAGREFS="LT2"
+                    BASELINE="448 180 497 183" 
+                    HPOS="447"
+                    VPOS="145"
+                    WIDTH="51"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="448 170 448 148 476 145 489 151 498 145 496 187 447 184"/></Shape>
+	    <String CONTENT="IV."
+                    HPOS="447"
+                    VPOS="145"
+                    WIDTH="51"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="206"
+                   VPOS="909"
+                   WIDTH="544"
+                   HEIGHT="97"
+                   ID="eSc_textblock_3e27d2fd"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="750 914 750 939 709 970 613 980 597 1006 531 1006 509 980 462 975 237 980 206 949 222 914 438 909"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c37ec97a"
+                    TAGREFS="LT1"
+                    BASELINE="208 944 747 931" 
+                    HPOS="205"
+                    VPOS="900"
+                    WIDTH="540"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="206 933 205 911 237 919 294 917 303 909 315 915 351 917 394 915 401 908 425 914 433 906 495 913 532 904 566 911 593 905 621 910 633 901 691 900 708 908 744 902 745 920 740 939 639 935 550 937 529 944 478 939 474 945 436 941 400 946 386 941 368 948 343 942 206 949"/></Shape>
+	    <String CONTENT="Non petit Antipodas Titan vigilanibus unquam."
+                    HPOS="205"
+                    VPOS="900"
+                    WIDTH="540"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ff3d74b"
+                    TAGREFS="LT1"
+                    BASELINE="231 972 709 959" 
+                    HPOS="230"
+                    VPOS="935"
+                    WIDTH="479"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="230 962 230 949 239 946 268 951 283 945 330 949 348 944 356 949 363 944 372 950 386 942 399 949 467 948 483 940 498 946 554 945 567 937 591 944 606 939 655 942 670 935 679 941 688 936 707 940 709 975 691 970 686 976 629 977 607 970 576 968 535 970 527 979 511 971 495 971 487 980 479 975 467 980 445 972 434 982 400 984 389 977 383 984 364 985 343 976 325 986 294 976 279 976 271 986 261 979 230 979"/></Shape>
+	    <String CONTENT="Solſtitium his ſemper, ſemper &amp; ortus adeſt."
+                    HPOS="230"
+                    VPOS="935"
+                    WIDTH="479"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ead00b7"
+                    TAGREFS="LT1"
+                    BASELINE="524 999 597 997" 
+                    HPOS="523"
+                    VPOS="971"
+                    WIDTH="72"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="523 989 523 979 535 971 554 979 588 971 595 986 594 1011 577 1011 559 1001 542 1002 524 1012"/></Shape>
+	    <String CONTENT="A 4"
+                    HPOS="523"
+                    VPOS="971"
+                    WIDTH="72"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="234"
+                   VPOS="298"
+                   WIDTH="551"
+                   HEIGHT="560"
+                   ID="eSc_textblock_ed83ce2f"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="234 298 234 858 785 858 782 298"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

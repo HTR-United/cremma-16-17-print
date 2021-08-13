@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_13.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="258"
+                   VPOS="180"
+                   WIDTH="451"
+                   HEIGHT="71"
+                   ID="eSc_textblock_3fc17da4"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="504 180 515 206 704 206 709 236 258 251 268 217 436 211 458 180"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2b76e1cd"
+                    TAGREFS="LT1"
+                    BASELINE="261 250 703 233" 
+                    HPOS="258"
+                    VPOS="193"
+                    WIDTH="443"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="259 240 258 220 302 215 319 219 337 210 355 218 359 213 390 217 403 210 422 214 436 204 458 202 484 213 504 207 550 210 562 202 584 209 598 197 620 201 628 196 642 202 648 196 699 193 701 223 701 242 683 242 670 235 666 240 628 238 591 245 577 238 559 240 549 248 511 249 498 241 464 251 433 244 426 251 299 249 290 258 259 259"/></Shape>
+	    <String CONTENT="QUI MANE VIGILA VERINT"
+                    HPOS="258"
+                    VPOS="193"
+                    WIDTH="443"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4297c978"
+                    TAGREFS="LT2"
+                    BASELINE="461 204 504 204" 
+                    HPOS="461"
+                    VPOS="171"
+                    WIDTH="43"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="461 193 461 171 504 175 504 209 461 206"/></Shape>
+	    <String CONTENT="II."
+                    HPOS="461"
+                    VPOS="171"
+                    WIDTH="43"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="253"
+                   VPOS="532"
+                   WIDTH="4"
+                   HEIGHT="9"
+                   ID="eSc_textblock_1a94221a"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="257 532 257 541 253 541 253 532"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="211"
+                   VPOS="930"
+                   WIDTH="576"
+                   HEIGHT="107"
+                   ID="eSc_textblock_00a79f2b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="781 930 787 944 781 964 710 964 674 995 588 1001 555 1037 520 1026 514 1001 237 995 211 964 232 935 520 930"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6de47f79"
+                    TAGREFS="LT1"
+                    BASELINE="213 963 778 951" 
+                    HPOS="211"
+                    VPOS="922"
+                    WIDTH="565"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="211 953 214 933 227 933 233 940 249 940 255 933 276 939 290 932 297 939 312 933 325 940 361 939 369 933 377 937 383 931 395 937 451 937 500 936 515 927 527 935 542 928 563 933 579 926 629 932 641 924 690 932 704 924 738 923 745 931 752 926 763 931 775 922 776 941 776 962 758 962 743 954 729 954 713 963 651 955 643 963 630 957 620 962 597 957 585 966 572 966 560 958 532 958 524 963 471 961 458 968 452 963 434 968 426 961 403 961 337 971 307 964 272 972 243 964 232 972 211 973"/></Shape>
+	    <String CONTENT="Pande ſinum, dum tempus adeſt, pia turba capacem;"
+                    HPOS="211"
+                    VPOS="922"
+                    WIDTH="565"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8009eafd"
+                    TAGREFS="LT1"
+                    BASELINE="236 992 681 982" 
+                    HPOS="235"
+                    VPOS="957"
+                    WIDTH="444"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="235 981 235 970 241 964 262 971 297 971 311 963 360 970 383 962 433 967 501 959 611 964 625 957 639 962 665 957 678 963 679 972 679 992 668 995 554 990 548 998 531 992 522 998 488 999 469 993 452 999 435 995 413 1001 383 1001 377 994 336 995 329 1002 235 999"/></Shape>
+	    <String CONTENT="Non niſi manè poteſt nobile Manna legi."
+                    HPOS="235"
+                    VPOS="957"
+                    WIDTH="444"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e90f473"
+                    TAGREFS="LT1"
+                    BASELINE="518 1019 576 1016" 
+                    HPOS="515"
+                    VPOS="993"
+                    WIDTH="61"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="517 1008 515 998 528 993 573 993 576 1042 518 1050"/></Shape>
+	    <String CONTENT="A 2"
+                    HPOS="515"
+                    VPOS="993"
+                    WIDTH="61"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="223"
+                   VPOS="339"
+                   WIDTH="534"
+                   HEIGHT="551"
+                   ID="eSc_textblock_80dc7db0"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="223 339 223 890 757 890 757 645 757 339"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>drucke_qun-607-5_00001-00179.pdf_page_25.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Figure" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1147" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT1148" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1025"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1025"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="336"
+                   VPOS="175"
+                   WIDTH="287"
+                   HEIGHT="76"
+                   ID="eSc_textblock_53239da2"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="514 180 520 211 617 211 623 236 336 251 341 217 436 211 443 175"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9c057517"
+                    TAGREFS="LT1"
+                    BASELINE="336 246 615 238" 
+                    HPOS="333"
+                    VPOS="196"
+                    WIDTH="280"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="334 236 333 214 395 217 412 202 434 202 447 215 464 215 471 206 507 214 527 198 564 197 579 210 594 211 612 196 613 242 606 245 524 241 510 248 484 242 470 249 427 244 380 251 334 246"/></Shape>
+	    <String CONTENT="SIVON PORvIS,"
+                    HPOS="333"
+                    VPOS="196"
+                    WIDTH="280"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f851b068"
+                    TAGREFS="LT2"
+                    BASELINE="438 202 513 202" 
+                    HPOS="438"
+                    VPOS="166"
+                    WIDTH="75"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="438 192 438 171 465 174 476 166 489 166 513 174 510 209 466 210 460 204 438 204"/></Shape>
+	    <String CONTENT="VIII."
+                    HPOS="438"
+                    VPOS="166"
+                    WIDTH="75"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="237"
+                   VPOS="635"
+                   WIDTH="20"
+                   HEIGHT="14"
+                   ID="eSc_textblock_b2352bed"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="257 635 257 649 237 649 243 635"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="201"
+                   VPOS="930"
+                   WIDTH="529"
+                   HEIGHT="71"
+                   ID="eSc_textblock_9e269bd5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="730 935 730 964 493 1001 227 995 201 964 206 935 629 930"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_87abd85f"
+                    TAGREFS="LT1"
+                    BASELINE="202 961 727 955" 
+                    HPOS="201"
+                    VPOS="924"
+                    WIDTH="525"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="201 950 201 930 219 930 230 939 243 939 250 931 314 939 324 930 339 927 400 932 405 927 431 927 443 937 457 937 498 926 513 936 573 936 579 931 643 924 655 931 725 933 726 945 725 963 641 959 625 964 617 959 582 964 575 961 564 966 550 961 536 966 523 961 506 967 500 961 464 961 417 968 396 962 383 968 372 962 330 970 248 970 231 963 217 970 206 964 201 968"/></Shape>
+	    <String CONTENT="Dormitum ſatis eſt, Petre, ſegnes excute ſomnos."
+                    HPOS="201"
+                    VPOS="924"
+                    WIDTH="525"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e834af8b"
+                    TAGREFS="LT1"
+                    BASELINE="226 990 617 985" 
+                    HPOS="224"
+                    VPOS="962"
+                    WIDTH="392"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="224 980 224 966 258 972 320 972 338 967 361 971 370 964 380 971 391 964 418 971 433 964 456 970 464 964 501 963 515 970 524 962 579 962 615 968 616 975 615 1001 531 992 523 999 507 993 498 1002 474 1002 465 993 451 1001 430 993 398 1003 364 1003 351 994 323 994 316 1002 307 997 288 1004 280 999 275 1004 248 1004 243 999 224 1004"/></Shape>
+	    <String CONTENT="En, cantans gallus te vigilare jubet."
+                    HPOS="224"
+                    VPOS="962"
+                    WIDTH="392"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="218"
+                   VPOS="306"
+                   WIDTH="557"
+                   HEIGHT="537"
+                   ID="eSc_textblock_46b468f8"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="218 306 218 843 775 843 775 306"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
