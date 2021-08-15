@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zoologiadanicase01mlle.pdf_page_90.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1170" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1416"
+          HEIGHT="2462"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1416"
+                  HEIGHT="2462">
+        
+        <TextBlock HPOS="270"
+                   VPOS="172"
+                   WIDTH="72"
+                   HEIGHT="63"
+                   ID="eSc_textblock_82b29914"
+                   TAGREFS="BT1170">
+          <Shape><Polygon POINTS="342 180 342 227 270 235 279 172"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_278fa70e"
+                    TAGREFS="LT2"
+                    BASELINE="274 223 326 219" 
+                    HPOS="266"
+                    VPOS="133"
+                    WIDTH="60"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="272 207 266 133 318 141 326 242 274 233"/></Shape>
+	    <String CONTENT="74"
+                    HPOS="266"
+                    VPOS="133"
+                    WIDTH="60"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="500"
+                   VPOS="172"
+                   WIDTH="546"
+                   HEIGHT="73"
+                   ID="eSc_textblock_e1448879"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="1046 180 1046 235 1018 245 558 245 500 219 517 188 656 172"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e68f4ad4"
+                    TAGREFS="LT1"
+                    BASELINE="531 217 1044 217" 
+                    HPOS="531"
+                    VPOS="135"
+                    WIDTH="513"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="531 201 531 153 570 135 599 155 615 147 638 155 685 137 701 153 730 137 749 155 818 155 847 141 874 151 886 139 927 135 991 135 1026 145 1044 135 1044 221 1032 229 968 229 954 221 921 229 896 221 820 229 810 219 740 219 710 229 697 219 681 229 627 219 599 229 531 219"/></Shape>
+	    <String CONTENT="PLANARIA CORNVTA."
+                    HPOS="531"
+                    VPOS="135"
+                    WIDTH="513"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1229"
+                   VPOS="2092"
+                   WIDTH="88"
+                   HEIGHT="47"
+                   ID="eSc_textblock_5e0cbe43"
+                   TAGREFS="BT1170">
+          <Shape><Polygon POINTS="1309 2092 1317 2139 1229 2139 1229 2092"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_663be293"
+                    TAGREFS="LT2"
+                    BASELINE="1221 2138 1319 2129" 
+                    HPOS="1212"
+                    VPOS="2076"
+                    WIDTH="105"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1216 2121 1212 2094 1227 2084 1274 2088 1311 2076 1317 2143 1296 2135 1282 2150 1255 2152 1216 2139"/></Shape>
+	    <String CONTENT="Tab."
+                    HPOS="1212"
+                    VPOS="2076"
+                    WIDTH="105"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="352"
+                   VPOS="1551"
+                   WIDTH="809"
+                   HEIGHT="137"
+                   ID="eSc_textblock_d6805785"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1046 1559 1065 1624 1161 1641 1161 1672 369 1688 352 1592 377 1551"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b379502b"
+                    TAGREFS="LT1"
+                    BASELINE="359 1598 1042 1592" 
+                    HPOS="357"
+                    VPOS="1549"
+                    WIDTH="683"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="357 1581 357 1559 367 1553 428 1553 459 1563 506 1553 531 1563 582 1563 675 1551 720 1551 730 1561 755 1561 769 1551 808 1559 907 1559 917 1549 950 1559 980 1551 989 1559 1024 1553 1038 1559 1040 1575 1038 1606 925 1596 845 1606 812 1594 804 1602 753 1600 744 1608 675 1596 650 1608 584 1596 519 1606 467 1598 453 1610 410 1610 357 1598"/></Shape>
+	    <String CONTENT="Fig. 5. Cornutam naturali magnitudine,"
+                    HPOS="357"
+                    VPOS="1549"
+                    WIDTH="683"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_767e4ccd"
+                    TAGREFS="LT1"
+                    BASELINE="363 1674 1153 1668" 
+                    HPOS="361"
+                    VPOS="1626"
+                    WIDTH="790"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="361 1657 361 1639 377 1631 428 1645 457 1631 498 1631 510 1641 537 1633 549 1645 621 1645 697 1635 705 1641 718 1629 738 1643 769 1635 783 1643 849 1643 859 1633 884 1643 915 1629 944 1641 995 1641 1009 1629 1052 1635 1149 1626 1151 1704 1048 1706 1007 1678 933 1678 909 1702 888 1700 882 1709 810 1709 796 1698 763 1709 751 1696 720 1696 712 1704 697 1696 681 1700 656 1684 640 1694 607 1682 566 1692 552 1682 531 1690 461 1682 412 1700 381 1682 361 1684"/></Shape>
+	    <String CONTENT="Fig 6 et 7. vero aucta magnitudine exhibent."
+                    HPOS="361"
+                    VPOS="1626"
+                    WIDTH="790"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="254"
+                   VPOS="722"
+                   WIDTH="1088"
+                   HEIGHT="359"
+                   ID="eSc_textblock_42fb8e8d"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1342 787 1317 1056 769 1048 533 1081 254 1048 254 820 350 796 369 746 1177 746 1294 722"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fb614ada"
+                    TAGREFS="LT1"
+                    BASELINE="369 789 1329 789" 
+                    HPOS="369"
+                    VPOS="736"
+                    WIDTH="960"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="369 773 385 761 410 759 521 765 535 757 547 765 562 750 621 767 638 752 652 763 697 755 724 763 767 744 804 765 831 742 841 750 851 744 882 765 999 765 1032 757 1067 767 1097 736 1128 736 1175 761 1204 759 1239 736 1329 736 1329 806 1221 806 1194 793 1173 806 1132 804 1122 793 1095 793 1083 806 999 793 982 806 970 793 944 793 909 793 900 802 878 793 857 806 794 793 769 806 740 806 726 793 689 806 636 806 623 793 539 806 527 793 508 806 488 793 476 806 455 793 412 802 369 793"/></Shape>
+	    <String CONTENT="CORNVA ſeu tentacula bina remota, ſiliformia, in"
+                    HPOS="369"
+                    VPOS="736"
+                    WIDTH="960"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4602791"
+                    TAGREFS="LT1"
+                    BASELINE="260 843 1327 839" 
+                    HPOS="256"
+                    VPOS="800"
+                    WIDTH="1069"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="258 826 256 802 305 812 324 802 377 802 400 814 453 812 463 802 504 802 525 814 570 814 586 802 630 802 662 814 687 806 726 814 892 806 980 812 999 800 1036 800 1056 810 1069 800 1081 812 1280 812 1288 804 1299 812 1323 810 1325 822 1323 859 1296 845 1260 845 1249 855 1237 849 1227 859 1180 859 1165 845 1136 859 1089 859 1075 845 1056 859 1007 859 997 851 972 859 853 859 837 843 812 843 790 861 773 853 712 861 697 847 679 845 656 855 642 847 627 861 609 847 584 845 560 845 549 855 539 845 517 845 494 861 478 845 439 847 414 861 391 845 361 861 334 845 258 847"/></Shape>
+	    <String CONTENT="margine antico, aliquantum recuruata, linea percurrente"
+                    HPOS="256"
+                    VPOS="800"
+                    WIDTH="1069"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20bbc730"
+                    TAGREFS="LT1"
+                    BASELINE="260 894 1327 888" 
+                    HPOS="258"
+                    VPOS="851"
+                    WIDTH="1067"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="258 878 264 855 332 855 363 867 383 855 459 855 467 863 584 855 611 867 640 853 677 863 703 853 730 865 765 855 775 863 781 857 966 865 1050 863 1063 851 1075 863 1249 863 1274 851 1286 863 1323 863 1325 871 1323 904 1276 904 1268 896 1173 904 1141 892 1067 900 1009 892 991 904 976 896 946 906 915 906 902 894 878 906 863 896 845 906 775 906 736 896 728 904 714 894 673 906 646 894 634 902 619 894 584 896 572 908 564 900 543 906 531 896 513 908 490 896 451 896 439 908 396 900 373 908 344 896 307 896 297 906 258 900"/></Shape>
+	    <String CONTENT="fuſca, baſi atomis nigris notata; pone, cornua angulus"
+                    HPOS="258"
+                    VPOS="851"
+                    WIDTH="1067"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_324457fd"
+                    TAGREFS="LT1"
+                    BASELINE="260 945 1325 939" 
+                    HPOS="258"
+                    VPOS="902"
+                    WIDTH="1065"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="258 929 260 912 311 906 369 917 465 906 476 917 484 910 513 919 564 906 595 919 617 904 654 915 687 904 703 917 829 908 835 915 845 904 868 904 888 917 956 917 968 902 1013 915 1286 915 1303 904 1323 923 1321 962 1286 962 1274 949 1237 962 1044 962 1030 947 1001 960 991 949 952 949 933 964 878 964 857 949 827 954 816 964 666 964 654 954 632 962 619 949 588 964 576 951 552 951 537 966 494 964 482 951 455 966 439 951 420 951 410 962 389 962 379 951 258 954"/></Shape>
+	    <String CONTENT="acutus ex atomis nigris compoſitus; huius crura retror¬"
+                    HPOS="258"
+                    VPOS="902"
+                    WIDTH="1065"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b2268a8"
+                    TAGREFS="LT1"
+                    BASELINE="260 993 1325 997" 
+                    HPOS="258"
+                    VPOS="958"
+                    WIDTH="1067"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="260 976 270 958 318 966 355 966 363 958 389 966 420 958 455 966 621 958 654 966 740 960 794 968 829 960 859 968 923 968 944 960 956 968 1036 968 1060 960 1257 968 1284 960 1323 968 1325 980 1319 1023 890 1023 868 1005 827 1005 814 1013 800 1001 771 1019 746 999 599 999 588 1007 552 999 521 1007 500 999 418 999 371 1015 342 999 291 1009 258 997"/></Shape>
+	    <String CONTENT="fum, ſpecfant; anticam corporis partem inter cornua, in-"
+                    HPOS="258"
+                    VPOS="958"
+                    WIDTH="1067"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68fc709e"
+                    TAGREFS="LT1"
+                    BASELINE="260 1048 599 1044" 
+                    HPOS="258"
+                    VPOS="1005"
+                    WIDTH="339"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="258 1031 260 1007 287 1017 346 1007 367 1019 420 1019 474 1017 486 1005 539 1017 560 1005 595 1017 597 1058 459 1050 426 1062 381 1054 281 1062 258 1052"/></Shape>
+	    <String CONTENT="terdum producit."
+                    HPOS="258"
+                    VPOS="1005"
+                    WIDTH="339"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="254"
+                   VPOS="1091"
+                   WIDTH="1088"
+                   HEIGHT="384"
+                   ID="eSc_textblock_0af80c01"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1309 1091 1342 1206 1309 1280 1333 1417 991 1434 816 1475 254 1466 262 1354 320 1343 287 1319 320 1296 254 1269 254 1165 342 1148 320 1107 467 1091"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3a9e64c0"
+                    TAGREFS="LT1"
+                    BASELINE="363 1148 1327 1148" 
+                    HPOS="363"
+                    VPOS="1089"
+                    WIDTH="964"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="363 1132 363 1107 389 1101 402 1114 558 1114 597 1089 648 1114 693 1114 705 1101 724 1112 812 1114 845 1089 1042 1089 1075 1099 1087 1091 1099 1103 1108 1095 1126 1101 1138 1089 1216 1089 1233 1097 1245 1091 1272 1114 1286 1105 1327 1114 1327 1148 1307 1161 1243 1150 1225 1161 1186 1161 1177 1153 1136 1157 1128 1148 1097 1161 1087 1153 1079 1161 1036 1153 966 1161 954 1148 946 1157 902 1153 894 1161 814 1148 783 1157 769 1150 753 1161 689 1148 669 1161 638 1153 593 1161 541 1148 363 1161"/></Shape>
+	    <String CONTENT="CORPVS album ſupra- vaſculis pinnatis rufis, ſub¬"
+                    HPOS="363"
+                    VPOS="1089"
+                    WIDTH="964"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca61ff06"
+                    TAGREFS="LT1"
+                    BASELINE="258 1204 1327 1196" 
+                    HPOS="254"
+                    VPOS="1155"
+                    WIDTH="1071"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="256 1187 254 1173 272 1163 311 1161 334 1173 348 1163 363 1171 381 1161 406 1169 416 1161 490 1161 517 1173 541 1159 588 1159 617 1171 636 1171 646 1161 666 1171 720 1159 732 1171 808 1157 831 1157 851 1169 913 1169 929 1157 956 1157 968 1169 1005 1169 1017 1157 1032 1169 1056 1157 1093 1163 1106 1155 1118 1167 1138 1159 1149 1167 1245 1167 1255 1159 1264 1167 1323 1165 1325 1179 1323 1212 1313 1202 1249 1212 1231 1202 1216 1216 1110 1216 1081 1206 1056 1218 1017 1218 1009 1210 964 1218 946 1208 923 1218 876 1218 866 1208 841 1206 800 1218 765 1206 753 1214 742 1204 716 1214 699 1204 669 1208 656 1220 636 1210 523 1204 469 1212 389 1206 344 1222 328 1206 299 1214 256 1206"/></Shape>
+	    <String CONTENT="tus punctulis albis, quaſi ouulis, paſſim inſcriptum, mar¬"
+                    HPOS="254"
+                    VPOS="1155"
+                    WIDTH="1071"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b7b5276"
+                    TAGREFS="LT1"
+                    BASELINE="260 1255 572 1251" 
+                    HPOS="258"
+                    VPOS="1210"
+                    WIDTH="312"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="258 1239 258 1216 371 1224 387 1212 430 1222 443 1210 472 1210 492 1222 504 1210 531 1210 541 1220 568 1222 570 1235 570 1255 560 1259 459 1263 435 1255 412 1265 369 1257 338 1265 309 1257 258 1265"/></Shape>
+	    <String CONTENT="go varie flexilis."
+                    HPOS="258"
+                    VPOS="1210"
+                    WIDTH="312"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2dab8293"
+                    TAGREFS="LT1"
+                    BASELINE="361 1356 1325 1349" 
+                    HPOS="359"
+                    VPOS="1306"
+                    WIDTH="964"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="359 1339 365 1311 381 1311 394 1323 420 1321 430 1311 486 1323 513 1311 529 1321 574 1325 588 1311 623 1321 671 1321 693 1311 710 1323 744 1308 781 1308 792 1319 839 1308 884 1323 923 1311 944 1323 974 1313 999 1323 1021 1321 1040 1306 1058 1321 1087 1321 1099 1308 1122 1321 1136 1306 1157 1321 1216 1321 1229 1313 1264 1321 1286 1308 1321 1321 1323 1333 1315 1358 1284 1358 1270 1368 1243 1360 1212 1368 1198 1354 1175 1362 1147 1354 1122 1366 1091 1356 1067 1368 1058 1360 999 1370 972 1370 946 1356 933 1366 915 1358 902 1370 839 1360 810 1370 802 1362 775 1366 765 1356 724 1356 691 1368 681 1358 658 1358 644 1372 611 1372 584 1358 554 1366 480 1366 469 1358 359 1366"/></Shape>
+	    <String CONTENT="In ſinubus littoris Chriſtianſandenſis, inter rupes"
+                    HPOS="359"
+                    VPOS="1306"
+                    WIDTH="964"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43e8eec5"
+                    TAGREFS="LT1"
+                    BASELINE="258 1409 1323 1401" 
+                    HPOS="256"
+                    VPOS="1362"
+                    WIDTH="1065"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="256 1393 268 1368 447 1380 492 1368 539 1378 552 1366 582 1366 634 1378 648 1366 679 1366 689 1376 734 1366 746 1378 763 1378 788 1364 804 1364 816 1376 829 1368 845 1376 859 1364 888 1376 915 1376 927 1364 966 1364 978 1376 1042 1376 1079 1368 1163 1374 1175 1362 1196 1374 1233 1374 1245 1364 1262 1374 1284 1362 1319 1374 1321 1384 1321 1411 1309 1425 991 1427 974 1417 937 1425 927 1415 911 1427 861 1415 835 1425 820 1411 800 1409 753 1413 732 1425 654 1409 621 1417 597 1409 539 1411 508 1425 484 1411 373 1411 359 1425 332 1415 303 1427 287 1413 256 1425"/></Shape>
+	    <String CONTENT="Lynger, et in, ſinu Dröbachienſi; illic quatuor ſpecimi¬"
+                    HPOS="256"
+                    VPOS="1362"
+                    WIDTH="1065"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e922035"
+                    TAGREFS="LT1"
+                    BASELINE="258 1460 814 1454" 
+                    HPOS="256"
+                    VPOS="1413"
+                    WIDTH="556"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="256 1444 256 1430 332 1430 342 1419 357 1427 369 1417 445 1427 480 1415 494 1425 535 1427 570 1415 623 1421 630 1413 675 1413 718 1425 781 1421 790 1413 810 1425 812 1438 810 1460 788 1475 695 1475 679 1458 601 1468 541 1464 529 1477 461 1477 445 1462 256 1466"/></Shape>
+	    <String CONTENT="na, hic vnicum ſemel reperi."
+                    HPOS="256"
+                    VPOS="1413"
+                    WIDTH="556"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="262"
+                   VPOS="266"
+                   WIDTH="1071"
+                   HEIGHT="437"
+                   ID="eSc_textblock_14a66ca2"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1145 285 1128 326 1032 344 1333 369 1333 424 1292 465 972 492 1104 508 1112 539 1005 549 1089 582 1333 599 1333 687 270 703 270 640 350 640 369 590 490 574 467 508 525 490 262 473 270 369 482 352 467 270 493 266 1058 266"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_86862947"
+                    TAGREFS="LT1"
+                    BASELINE="476 318 1126 311" 
+                    HPOS="472"
+                    VPOS="237"
+                    WIDTH="652"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="474 301 472 258 492 262 517 246 535 262 570 262 588 244 648 260 669 250 687 262 742 248 771 260 818 260 849 242 907 240 952 258 964 246 978 250 1005 240 1038 258 1054 242 1122 237 1124 295 1116 320 474 322"/></Shape>
+	    <String CONTENT="PLANARIA CORNVTA."
+                    HPOS="472"
+                    VPOS="237"
+                    WIDTH="652"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cead605e"
+                    TAGREFS="LT1"
+                    BASELINE="330 404 1329 404" 
+                    HPOS="330"
+                    VPOS="336"
+                    WIDTH="999"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="330 387 330 336 379 336 387 344 416 336 463 359 486 359 508 336 549 359 584 336 617 361 701 361 722 352 757 361 788 336 882 361 974 361 1017 336 1069 361 1099 359 1124 340 1159 361 1180 361 1218 336 1276 336 1311 361 1329 354 1329 408 1294 416 1163 416 1155 408 1138 416 1097 408 1052 416 1024 408 1009 416 987 408 968 416 931 416 923 408 907 416 831 416 822 408 794 408 785 416 510 408 486 416 476 408 396 416 330 408"/></Shape>
+	    <String CONTENT="PLANARIA plana, oblonga, tentacula ab vtro¬"
+                    HPOS="330"
+                    VPOS="336"
+                    WIDTH="999"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4bc8eaf3"
+                    TAGREFS="LT1"
+                    BASELINE="264 457 1089 451" 
+                    HPOS="260"
+                    VPOS="408"
+                    WIDTH="827"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="262 441 260 424 305 412 330 422 338 416 391 424 437 412 527 412 543 420 556 410 611 410 623 422 681 422 697 410 749 420 763 410 806 410 818 420 839 420 853 408 884 418 923 408 944 420 1021 410 1032 418 1085 418 1087 434 1085 469 1015 469 1007 461 962 469 868 461 837 469 816 459 783 459 705 471 673 459 597 459 576 471 535 473 513 461 469 461 424 473 408 473 396 461 373 461 361 473 340 461 318 461 291 473 262 461"/></Shape>
+	    <String CONTENT="que capitis latere. Zool. d. prodr. 2681."
+                    HPOS="260"
+                    VPOS="408"
+                    WIDTH="827"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12e0e20c"
+                    TAGREFS="LT1"
+                    BASELINE="476 539 964 539" 
+                    HPOS="476"
+                    VPOS="494"
+                    WIDTH="488"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="476 523 476 508 494 496 525 508 576 508 586 498 623 496 640 508 705 508 744 494 788 494 802 506 855 494 902 508 917 494 941 494 964 508 964 551 941 545 913 551 902 543 876 551 837 551 829 543 775 551 740 543 726 551 570 543 533 551 476 543"/></Shape>
+	    <String CONTENT="Dan. Horn- Flad-ormen."
+                    HPOS="476"
+                    VPOS="494"
+                    WIDTH="488"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc1160a2"
+                    TAGREFS="LT1"
+                    BASELINE="369 633 1327 638" 
+                    HPOS="367"
+                    VPOS="580"
+                    WIDTH="960"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="369 617 369 594 383 590 408 603 437 588 480 601 498 586 519 601 543 603 560 586 582 603 648 588 671 605 687 599 870 607 927 605 954 582 978 607 1007 580 1143 580 1206 599 1221 588 1239 599 1257 590 1270 601 1319 592 1327 621 1325 650 1284 640 1247 650 1218 650 1204 640 1184 650 1173 640 970 646 962 638 753 648 740 636 662 646 638 636 568 648 545 640 367 646"/></Shape>
+	    <String CONTENT="Animalculum inter congenera corniculis ſuis ſplen¬"
+                    HPOS="367"
+                    VPOS="580"
+                    WIDTH="960"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec0431d0"
+                    TAGREFS="LT1"
+                    BASELINE="262 687 408 687" 
+                    HPOS="262"
+                    VPOS="636"
+                    WIDTH="146"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="262 670 262 654 287 636 408 654 408 691 322 703 262 693"/></Shape>
+	    <String CONTENT="didum."
+                    HPOS="262"
+                    VPOS="636"
+                    WIDTH="146"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

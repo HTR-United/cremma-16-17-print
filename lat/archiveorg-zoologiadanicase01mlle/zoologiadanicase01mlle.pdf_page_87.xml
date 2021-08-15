@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>zoologiadanicase01mlle.pdf_page_87.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1170" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1416"
+          HEIGHT="2462"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1416"
+                  HEIGHT="2462">
+        
+        <TextBlock HPOS="640"
+                   VPOS="2084"
+                   WIDTH="86"
+                   HEIGHT="55"
+                   ID="eSc_textblock_f4e4bbfd"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="718 2092 726 2139 640 2139 648 2084"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2a54c278"
+                    TAGREFS="LT2"
+                    BASELINE="640 2129 722 2135" 
+                    HPOS="638"
+                    VPOS="2072"
+                    WIDTH="86"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="640 2113 642 2082 685 2090 705 2072 724 2074 716 2156 695 2156 666 2135 638 2137"/></Shape>
+	    <String CONTENT="E4"
+                    HPOS="638"
+                    VPOS="2072"
+                    WIDTH="86"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1056"
+                   VPOS="2084"
+                   WIDTH="97"
+                   HEIGHT="55"
+                   ID="eSc_textblock_7c3ef915"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="1136 2084 1153 2131 1065 2139 1056 2084"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fbed4458"
+                    TAGREFS="LT2"
+                    BASELINE="1048 2125 1147 2129" 
+                    HPOS="1046"
+                    VPOS="2080"
+                    WIDTH="101"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1048 2109 1048 2080 1147 2080 1145 2139 1132 2150 1110 2150 1097 2135 1060 2143 1046 2133"/></Shape>
+	    <String CONTENT="Tab."
+                    HPOS="1046"
+                    VPOS="2080"
+                    WIDTH="101"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="254"
+                   VPOS="155"
+                   WIDTH="669"
+                   HEIGHT="72"
+                   ID="eSc_textblock_b6fb82fc"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="907 164 923 194 350 227 254 203 262 164 607 155"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_62a33437"
+                    TAGREFS="LT1"
+                    BASELINE="262 203 900 196" 
+                    HPOS="260"
+                    VPOS="123"
+                    WIDTH="638"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="260 186 260 143 320 143 348 131 361 139 461 143 490 139 504 125 541 125 564 139 646 141 660 129 695 123 792 123 802 131 831 123 847 139 861 139 880 125 896 125 898 196 876 205 260 203"/></Shape>
+	    <String CONTENT="HOLOTHVRIA PENTACTES"
+                    HPOS="260"
+                    VPOS="123"
+                    WIDTH="638"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="57"
+                   VPOS="246"
+                   WIDTH="1079"
+                   HEIGHT="277"
+                   ID="eSc_textblock_fca50b45"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="980 254 997 309 775 342 1112 352 1136 361 1136 457 572 475 1030 500 948 514 73 523 57 426 112 410 139 352 229 342 197 318 205 254 320 246"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eb41fa93"
+                    TAGREFS="LT1"
+                    BASELINE="203 305 985 297" 
+                    HPOS="199"
+                    VPOS="244"
+                    WIDTH="783"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="201 289 199 254 207 252 264 256 309 248 342 260 355 250 383 256 396 246 469 246 498 258 535 248 554 258 588 258 599 250 652 256 671 244 718 244 730 256 769 254 785 244 798 254 962 248 980 252 982 281 982 301 960 309 884 309 876 301 859 309 841 301 831 309 796 301 781 309 763 301 705 309 625 301 615 311 597 303 422 303 352 315 311 315 297 305 215 315 201 307"/></Shape>
+	    <String CONTENT="HOLOTHVRIA PENTACTES"
+                    HPOS="199"
+                    VPOS="244"
+                    WIDTH="783"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_244d518d"
+                    TAGREFS="LT1"
+                    BASELINE="139 402 1128 389" 
+                    HPOS="135"
+                    VPOS="340"
+                    WIDTH="991"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="137 385 135 342 221 342 258 367 285 342 381 340 402 356 469 350 494 352 510 369 549 369 562 359 572 367 597 365 607 354 615 363 640 352 662 361 677 346 695 359 728 348 759 367 792 367 814 342 845 361 950 365 962 352 980 363 1060 340 1091 356 1124 342 1126 373 1118 400 960 400 950 389 923 402 755 391 744 402 714 404 681 395 566 404 552 393 515 393 506 402 449 408 414 398 383 408 338 400 330 408 297 402 283 410 264 402 149 408 137 400"/></Shape>
+	    <String CONTENT="HOLOTHVRIA tentaculis denis corpore"
+                    HPOS="135"
+                    VPOS="340"
+                    WIDTH="991"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf847a81"
+                    TAGREFS="LT1"
+                    BASELINE="61 455 1128 441" 
+                    HPOS="57"
+                    VPOS="395"
+                    WIDTH="1067"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="57 437 57 422 104 408 135 408 147 420 158 410 207 414 246 406 285 414 301 406 316 420 379 406 492 418 515 402 564 402 578 416 640 416 669 400 699 414 742 414 761 400 788 408 818 398 843 400 855 412 872 412 886 398 915 412 980 410 1003 395 1024 410 1044 398 1073 410 1106 400 1122 410 1124 422 1122 457 1079 445 968 459 948 449 884 459 868 447 855 459 831 447 814 461 658 461 650 453 638 459 630 451 584 451 572 463 500 455 426 465 406 455 305 467 293 457 209 457 199 469 162 469 110 457 82 469 57 459"/></Shape>
+	    <String CONTENT="quinquefariamn verrucoſo. Linn. Syſt. 1091. Zool. d."
+                    HPOS="57"
+                    VPOS="395"
+                    WIDTH="1067"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b0d1302"
+                    TAGREFS="LT1"
+                    BASELINE="63 504 330 500" 
+                    HPOS="61"
+                    VPOS="459"
+                    WIDTH="267"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="61 488 61 469 71 461 82 469 131 469 141 461 192 469 207 459 238 459 246 467 293 459 326 467 328 484 328 517 303 525 61 521"/></Shape>
+	    <String CONTENT="prodr. 2806."
+                    HPOS="61"
+                    VPOS="459"
+                    WIDTH="267"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="57"
+                   VPOS="541"
+                   WIDTH="1096"
+                   HEIGHT="1180"
+                   ID="eSc_textblock_0bafe674"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1136 558 1013 867 679 1023 1145 1066 1153 1516 1120 1565 679 1590 1120 1600 1145 1672 915 1721 65 1713 73 1649 155 1647 73 1608 188 1583 65 1573 57 1124 145 1099 164 1050 295 1031 262 999 229 558 736 541"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bed3558c"
+                    TAGREFS="LT1"
+                    BASELINE="236 597 1126 590" 
+                    HPOS="233"
+                    VPOS="545"
+                    WIDTH="891"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="233 580 233 556 244 549 272 549 281 558 324 549 338 560 355 549 375 564 410 556 453 564 472 549 486 560 591 562 627 547 642 562 656 553 689 562 705 547 722 547 734 560 749 547 767 547 783 562 802 547 822 560 890 560 905 545 952 545 968 560 1081 560 1122 545 1124 574 1122 601 648 594 593 603 541 594 375 597 355 605 330 597 233 597"/></Shape>
+	    <String CONTENT="Echinus coriaceus ad os fimbriatus. Planc. conch."
+                    HPOS="233"
+                    VPOS="545"
+                    WIDTH="891"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b741937"
+                    TAGREFS="LT1"
+                    BASELINE="322 648 724 642" 
+                    HPOS="320"
+                    VPOS="599"
+                    WIDTH="402"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="320 631 320 605 330 613 449 613 455 605 484 611 494 601 547 601 558 611 568 601 615 609 627 599 695 601 720 609 722 625 720 654 697 644 679 654 669 644 658 654 586 658 558 644 539 652 525 644 418 646 404 660 320 654"/></Shape>
+	    <String CONTENT="p.99. t. 6. f. D, E, F."
+                    HPOS="320"
+                    VPOS="599"
+                    WIDTH="402"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b44fc9dd"
+                    TAGREFS="LT1"
+                    BASELINE="238 697 1073 693" 
+                    HPOS="236"
+                    VPOS="654"
+                    WIDTH="835"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="236 681 242 656 305 658 318 666 500 656 533 666 560 658 576 666 636 666 677 654 714 664 769 654 863 662 878 656 888 664 1038 654 1069 664 1071 703 1032 707 1003 695 982 707 935 707 902 695 884 705 841 695 831 705 753 707 740 695 724 707 646 709 621 697 588 697 578 707 500 699 439 709 428 699 396 699 381 709 338 709 330 701 291 699 258 709 236 697"/></Shape>
+	    <String CONTENT="Cucumer marinus. ROND, piſc. 2. C.25. fig."
+                    HPOS="236"
+                    VPOS="654"
+                    WIDTH="835"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d9fde1b"
+                    TAGREFS="LT1"
+                    BASELINE="240 746 890 744" 
+                    HPOS="238"
+                    VPOS="705"
+                    WIDTH="650"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="238 730 238 716 396 716 406 705 433 718 472 718 484 705 558 705 591 718 625 707 773 718 800 705 812 718 884 711 888 728 886 746 861 757 790 757 773 746 744 757 683 746 656 757 560 757 552 748 531 757 482 746 350 757 332 746 301 746 277 757 268 748 238 748"/></Shape>
+	    <String CONTENT="VANDELLI diſſ. p. 87. t. 2. f. 12."
+                    HPOS="238"
+                    VPOS="705"
+                    WIDTH="650"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb9f59ad"
+                    TAGREFS="LT1"
+                    BASELINE="240 802 1013 796" 
+                    HPOS="238"
+                    VPOS="757"
+                    WIDTH="773"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="238 785 238 761 260 775 320 761 355 761 371 773 396 761 724 773 788 757 810 771 839 763 874 771 888 757 902 757 946 771 987 763 1011 779 1009 808 993 814 931 814 915 800 763 804 744 816 697 816 681 802 664 816 609 808 582 816 566 802 545 816 502 804 441 804 428 812 414 804 400 816 365 804 293 804 277 814 238 806"/></Shape>
+	    <String CONTENT="Comment. Bonon. s. p. 242. t. 2. f. 1-3."
+                    HPOS="238"
+                    VPOS="757"
+                    WIDTH="773"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46c22c77"
+                    TAGREFS="LT1"
+                    BASELINE="272 896 954 890" 
+                    HPOS="270"
+                    VPOS="845"
+                    WIDTH="682"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="270 880 270 859 281 851 334 861 371 849 416 849 430 861 494 861 529 857 539 847 570 857 582 847 632 847 652 859 703 859 728 845 746 857 777 847 796 857 853 853 861 845 884 853 937 847 952 874 950 902 880 896 870 906 785 906 757 896 746 904 656 898 517 908 506 900 472 900 463 908 422 910 404 902 385 910 367 900 324 910 289 900 270 910"/></Shape>
+	    <String CONTENT="Dan. Fem raded Strand Spröyter."
+                    HPOS="270"
+                    VPOS="845"
+                    WIDTH="682"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1020ab0c"
+                    TAGREFS="LT1"
+                    BASELINE="272 947 771 943" 
+                    HPOS="270"
+                    VPOS="902"
+                    WIDTH="499"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="270 931 270 915 289 904 320 912 359 904 369 915 389 915 404 904 424 915 515 915 545 902 570 912 613 912 623 902 642 902 652 912 753 902 767 906 769 958 644 960 632 947 601 943 586 954 549 945 461 962 443 947 408 956 396 945 373 945 357 962 326 962 316 951 270 945"/></Shape>
+	    <String CONTENT="Gall. Concombu de mer."
+                    HPOS="270"
+                    VPOS="902"
+                    WIDTH="499"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e8c65d5"
+                    TAGREFS="LT1"
+                    BASELINE="272 999 650 995" 
+                    HPOS="270"
+                    VPOS="954"
+                    WIDTH="378"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="270 982 270 966 297 956 322 966 394 966 410 956 433 966 451 956 463 964 515 964 537 954 574 964 588 954 615 954 625 964 646 962 648 978 646 999 572 1011 564 1003 541 1009 527 999 502 999 465 1005 457 1015 391 1015 363 1003 307 1015 270 1001"/></Shape>
+	    <String CONTENT="Groenl. Innelualik."
+                    HPOS="270"
+                    VPOS="954"
+                    WIDTH="378"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f33fbc2"
+                    TAGREFS="LT1"
+                    BASELINE="166 1095 1134 1091" 
+                    HPOS="164"
+                    VPOS="1040"
+                    WIDTH="968"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="164 1079 164 1046 186 1054 240 1048 252 1060 311 1060 328 1046 346 1060 433 1060 472 1042 539 1042 619 1060 658 1044 681 1058 722 1058 738 1046 757 1058 781 1058 794 1046 816 1058 839 1044 855 1058 872 1042 894 1054 917 1052 931 1040 964 1040 985 1054 1019 1040 1038 1058 1050 1048 1077 1058 1120 1052 1130 1056 1132 1075 1128 1101 939 1101 911 1091 874 1101 804 1093 775 1099 767 1091 712 1099 695 1091 685 1101 636 1095 627 1103 599 1103 591 1095 547 1103 537 1093 424 1101 367 1095 359 1103 311 1093 164 1095"/></Shape>
+	    <String CONTENT="Huius figuram in Islandia ad viuum delineatam,"
+                    HPOS="164"
+                    VPOS="1040"
+                    WIDTH="968"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_088a028f"
+                    TAGREFS="LT1"
+                    BASELINE="63 1146 1132 1140" 
+                    HPOS="59"
+                    VPOS="1099"
+                    WIDTH="1071"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="61 1130 59 1105 88 1118 141 1118 149 1109 199 1118 213 1103 229 1118 254 1118 274 1105 287 1118 313 1109 336 1118 414 1101 533 1101 547 1114 570 1116 625 1107 669 1116 691 1107 710 1116 726 1105 765 1112 773 1101 792 1114 847 1099 874 1114 900 1099 944 1109 980 1099 997 1114 1130 1124 1120 1150 954 1150 921 1142 894 1150 549 1144 521 1153 441 1146 414 1155 367 1146 283 1155 256 1146 129 1155 61 1148"/></Shape>
+	    <String CONTENT="LINNAEOque a ſagaciſſimo rerum naturalium indagatore."
+                    HPOS="59"
+                    VPOS="1099"
+                    WIDTH="1071"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b496ce9a"
+                    TAGREFS="LT1"
+                    BASELINE="63 1198 1134 1194" 
+                    HPOS="61"
+                    VPOS="1155"
+                    WIDTH="1071"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="61 1181 61 1169 88 1157 149 1167 192 1161 205 1169 242 1169 256 1157 291 1157 324 1169 334 1161 359 1167 383 1157 449 1157 478 1169 513 1169 545 1159 611 1167 632 1155 664 1155 677 1167 693 1155 757 1155 771 1167 851 1159 892 1167 905 1155 921 1155 933 1167 974 1167 1040 1155 1060 1167 1114 1157 1132 1177 1130 1206 888 1206 880 1198 851 1204 800 1196 775 1206 615 1206 605 1196 558 1206 498 1198 476 1208 451 1200 441 1206 316 1198 272 1208 254 1208 244 1198 188 1208 61 1200"/></Shape>
+	    <String CONTENT="KOENIG olim miſſam, cum plurima cum praecedente"
+                    HPOS="61"
+                    VPOS="1155"
+                    WIDTH="1071"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aefa7047"
+                    TAGREFS="LT1"
+                    BASELINE="65 1249 1134 1243" 
+                    HPOS="63"
+                    VPOS="1206"
+                    WIDTH="1069"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="63 1233 63 1220 77 1216 229 1218 252 1210 279 1220 301 1210 313 1220 346 1210 361 1220 371 1210 408 1220 437 1208 541 1208 554 1218 613 1208 625 1218 728 1218 746 1208 775 1208 783 1216 911 1216 931 1206 960 1216 974 1206 987 1216 1024 1216 1034 1206 1089 1206 1130 1216 1132 1226 1130 1247 1091 1257 1030 1257 1019 1247 1003 1255 952 1247 874 1257 783 1249 773 1259 753 1259 742 1249 687 1259 591 1249 568 1257 554 1249 418 1249 400 1261 367 1261 352 1251 344 1259 223 1251 209 1261 166 1253 127 1261 116 1251 82 1261 63 1253"/></Shape>
+	    <String CONTENT="communia habet, addere, ſuisque ſynonymis in ſyſte¬"
+                    HPOS="63"
+                    VPOS="1206"
+                    WIDTH="1069"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e255d3ea"
+                    TAGREFS="LT1"
+                    BASELINE="65 1302 1136 1298" 
+                    HPOS="63"
+                    VPOS="1259"
+                    WIDTH="1071"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="63 1286 63 1269 75 1261 108 1274 133 1263 145 1272 155 1261 168 1274 188 1261 229 1261 250 1272 264 1261 299 1261 313 1272 344 1265 379 1274 552 1261 597 1274 607 1261 656 1269 683 1261 765 1269 783 1261 806 1272 974 1272 993 1259 1017 1259 1040 1272 1083 1259 1102 1272 1132 1272 1134 1282 1126 1308 1091 1302 991 1311 972 1300 902 1300 866 1311 796 1311 781 1300 759 1308 599 1300 556 1311 517 1302 500 1313 420 1313 383 1302 373 1313 293 1304 215 1311 186 1302 63 1308"/></Shape>
+	    <String CONTENT="mate Linnaeano neglectis exornare non a re alienum"
+                    HPOS="63"
+                    VPOS="1259"
+                    WIDTH="1071"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c6bcba4"
+                    TAGREFS="LT1"
+                    BASELINE="65 1354 1132 1349" 
+                    HPOS="63"
+                    VPOS="1308"
+                    WIDTH="1067"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="63 1337 75 1311 114 1321 129 1311 199 1311 211 1323 256 1311 309 1311 332 1321 482 1323 504 1313 541 1321 554 1311 564 1319 582 1311 627 1319 638 1308 671 1308 697 1321 714 1321 726 1308 746 1308 761 1321 820 1308 853 1321 1007 1321 1021 1308 1034 1321 1128 1321 1130 1333 1128 1349 1104 1360 913 1352 905 1358 890 1347 822 1360 726 1356 718 1347 669 1360 597 1352 580 1362 521 1354 453 1362 441 1349 410 1358 213 1349 174 1362 119 1362 110 1354 71 1362 63 1354"/></Shape>
+	    <String CONTENT="credidi. Numero tentaculorum denario, verrucis ge¬"
+                    HPOS="63"
+                    VPOS="1308"
+                    WIDTH="1067"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f360643"
+                    TAGREFS="LT1"
+                    BASELINE="65 1405 1136 1401" 
+                    HPOS="63"
+                    VPOS="1360"
+                    WIDTH="1071"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="63 1388 63 1374 84 1364 98 1372 108 1362 137 1372 186 1362 209 1374 221 1362 256 1374 297 1362 324 1374 350 1374 363 1362 381 1374 510 1374 527 1362 537 1372 554 1366 568 1374 591 1366 609 1372 623 1360 658 1360 671 1372 699 1360 757 1370 771 1360 814 1370 863 1360 882 1372 939 1372 952 1360 980 1372 1044 1372 1060 1364 1132 1372 1134 1384 1132 1409 1114 1413 919 1413 896 1405 833 1413 781 1405 703 1405 681 1413 669 1405 660 1413 599 1407 539 1415 513 1407 455 1407 447 1415 418 1407 381 1415 357 1407 330 1415 318 1407 250 1415 225 1407 194 1415 63 1409"/></Shape>
+	    <String CONTENT="minatis luteis, quarum quamlibet animal longius, quam"
+                    HPOS="63"
+                    VPOS="1360"
+                    WIDTH="1071"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cded2fb"
+                    TAGREFS="LT1"
+                    BASELINE="65 1458 1136 1452" 
+                    HPOS="63"
+                    VPOS="1413"
+                    WIDTH="1071"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="63 1442 63 1425 75 1419 233 1417 272 1425 281 1417 472 1423 484 1415 775 1423 843 1413 861 1421 946 1421 954 1413 970 1421 1003 1421 1011 1413 1048 1421 1060 1413 1132 1419 1134 1436 1132 1454 1093 1466 917 1462 896 1454 868 1464 843 1454 814 1462 777 1454 705 1468 599 1468 582 1456 531 1468 455 1468 420 1456 291 1458 274 1471 256 1471 246 1460 182 1471 63 1464"/></Shape>
+	    <String CONTENT="tentacula extendere poſſe KOENIGIVS in manuſcripto"
+                    HPOS="63"
+                    VPOS="1413"
+                    WIDTH="1071"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4978d5a"
+                    TAGREFS="LT1"
+                    BASELINE="65 1510 1136 1505" 
+                    HPOS="63"
+                    VPOS="1464"
+                    WIDTH="1071"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="63 1493 71 1468 82 1477 102 1477 112 1466 129 1477 209 1477 219 1466 248 1477 270 1477 281 1466 311 1466 322 1477 490 1477 504 1466 541 1477 552 1466 578 1475 601 1464 627 1475 773 1475 792 1464 818 1475 831 1464 855 1475 882 1464 896 1475 929 1464 952 1464 962 1475 976 1464 1085 1475 1095 1464 1132 1464 1134 1489 1132 1516 1081 1507 1069 1516 837 1516 827 1507 810 1516 664 1507 445 1510 428 1518 414 1510 355 1518 311 1510 252 1518 221 1518 213 1510 192 1518 63 1512"/></Shape>
+	    <String CONTENT="narrat, ſpatiisque vacuis ſerie verrucoſa latioribus ſat ab"
+                    HPOS="63"
+                    VPOS="1464"
+                    WIDTH="1071"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d107d24c"
+                    TAGREFS="LT1"
+                    BASELINE="65 1561 634 1557" 
+                    HPOS="63"
+                    VPOS="1516"
+                    WIDTH="569"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="63 1544 69 1520 108 1518 119 1528 149 1518 160 1528 172 1518 217 1528 311 1528 352 1516 396 1516 406 1526 459 1518 492 1526 502 1516 533 1516 543 1526 630 1526 632 1540 630 1559 617 1567 494 1567 484 1559 377 1567 309 1561 297 1569 238 1561 211 1569 141 1569 119 1561 106 1569 63 1567"/></Shape>
+	    <String CONTENT="H. inhaerente differre videtur."
+                    HPOS="63"
+                    VPOS="1516"
+                    WIDTH="569"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02cb80c1"
+                    TAGREFS="LT1"
+                    BASELINE="170 1655 1138 1649" 
+                    HPOS="168"
+                    VPOS="1604"
+                    WIDTH="968"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="168 1639 168 1610 186 1608 217 1608 231 1618 256 1610 272 1620 383 1608 467 1620 490 1606 521 1606 535 1618 654 1618 666 1606 720 1606 738 1618 765 1618 779 1608 835 1616 861 1606 884 1616 927 1616 950 1608 999 1612 1007 1604 1044 1616 1073 1604 1102 1616 1134 1616 1136 1633 1134 1657 1106 1657 1097 1665 1044 1657 1024 1665 960 1665 950 1657 939 1665 905 1657 870 1665 843 1655 796 1668 753 1668 744 1659 734 1668 701 1659 677 1668 666 1657 627 1659 619 1668 599 1668 588 1657 523 1657 476 1670 455 1659 402 1659 389 1670 330 1670 309 1659 168 1668"/></Shape>
+	    <String CONTENT="In Oceano Atlantico, qua Groenlandiam, Islandiam"
+                    HPOS="168"
+                    VPOS="1604"
+                    WIDTH="968"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b7dcae8"
+                    TAGREFS="LT1"
+                    BASELINE="69 1706 913 1706" 
+                    HPOS="69"
+                    VPOS="1665"
+                    WIDTH="844"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="69 1690 69 1672 77 1668 98 1676 127 1665 164 1678 176 1670 227 1678 248 1668 262 1678 274 1665 311 1665 330 1678 387 1678 400 1665 428 1665 441 1678 455 1665 482 1678 566 1678 578 1665 611 1678 687 1678 699 1665 720 1678 738 1668 755 1676 765 1665 806 1665 816 1676 853 1665 872 1676 913 1678 913 1711 896 1711 884 1723 767 1723 720 1711 679 1723 666 1713 627 1711 595 1719 504 1711 494 1721 463 1711 342 1711 334 1719 316 1711 295 1723 274 1713 250 1723 205 1723 194 1713 96 1723 69 1713"/></Shape>
+	    <String CONTENT="et Portugalliam alluit, ac in mari Adriatico."
+                    HPOS="69"
+                    VPOS="1665"
+                    WIDTH="844"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="172"
+                   VPOS="1764"
+                   WIDTH="973"
+                   HEIGHT="105"
+                   ID="eSc_textblock_3ec36ece"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1095 1764 1136 1772 1145 1811 484 1828 441 1869 320 1869 285 1828 180 1828 172 1780 213 1764"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_38f0346c"
+                    TAGREFS="LT1"
+                    BASELINE="176 1811 1136 1805" 
+                    HPOS="174"
+                    VPOS="1754"
+                    WIDTH="960"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="174 1795 174 1758 211 1758 227 1774 307 1758 334 1758 350 1774 381 1758 410 1758 426 1768 506 1762 517 1772 564 1772 582 1756 617 1756 630 1768 687 1756 716 1768 810 1772 820 1762 853 1770 878 1756 896 1766 919 1754 939 1766 958 1760 985 1770 1005 1754 1026 1754 1048 1770 1132 1770 1134 1789 1134 1840 1085 1840 1054 1815 980 1815 937 1840 905 1840 896 1832 814 1842 794 1842 763 1819 736 1825 718 1842 666 1842 642 1817 591 1838 572 1830 554 1838 523 1817 496 1817 400 1828 363 1819 350 1830 301 1819 260 1842 174 1846"/></Shape>
+	    <String CONTENT="Fig. 8. Holothuriam pontactem naturali magnitudine ex¬"
+                    HPOS="174"
+                    VPOS="1754"
+                    WIDTH="960"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f1f86f2"
+                    TAGREFS="LT1"
+                    BASELINE="316 1860 445 1860" 
+                    HPOS="316"
+                    VPOS="1823"
+                    WIDTH="129"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="316 1844 316 1830 330 1823 344 1832 359 1823 445 1832 443 1877 316 1879"/></Shape>
+	    <String CONTENT="primit."
+                    HPOS="316"
+                    VPOS="1823"
+                    WIDTH="129"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1073"
+                   VPOS="155"
+                   WIDTH="55"
+                   HEIGHT="56"
+                   ID="eSc_textblock_98675c83"
+                   TAGREFS="BT1170">
+          <Shape><Polygon POINTS="1128 164 1128 194 1073 211 1073 155"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e1527d6d"
+                    TAGREFS="LT2"
+                    BASELINE="1073 199 1112 194" 
+                    HPOS="1065"
+                    VPOS="118"
+                    WIDTH="47"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1071 182 1065 129 1102 118 1112 205 1073 211"/></Shape>
+	    <String CONTENT="71"
+                    HPOS="1065"
+                    VPOS="118"
+                    WIDTH="47"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
