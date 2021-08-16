@@ -2,6 +2,12 @@
 
 Collection of book samples in early print forms, 16th to 17th century, in Latin and pre-orthographic French.
 
+## About segmentation metadata
+
+The use of Segmonto has been quite foggy here and there. The most recent tagged resources should be cleaner in terms of tagging.
+
+DropCapitalLine are not tagged.
+
 ## Texts / books
 
 | Date | Title | Link | Folder |
@@ -12,3 +18,4 @@ Collection of book samples in early print forms, 16th to 17th century, in Latin 
 | 1678 | L'Achileyde de Stace... traduction en vers, avec ...       | https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k3103841 | [fra/bnf-bpt6k3103841](fra/bnf-bpt6k3103841) |
 | 1779 | Zoologia Danica, seu, Animalium Daniae et Norvegiae ...    | https://archive.org/details/zoologiadanicase01mlle        | [lat/archiveorg-zoologiadanicase01mlle](lat/archiveorg-zoologiadanicase01mlle) |
 | 1550 | La description de l'isle d'Utopie, oú est comprins ...     | https://gallica.bnf.fr/ark:/12148/bpt6k6566444g           | [fra/bnf-bpt6k6566444g](fra/bnf-bpt6k6566444g) |
+| 1520 | Epigrammata clarissimi disertissimique viri Thomae Mori... | https://doi.org/10.3931/e-rara-74397                      | [lat/e-rara-74397](lat/e-rara-74397) |

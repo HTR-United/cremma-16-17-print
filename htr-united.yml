@@ -2,17 +2,17 @@
 title : 'Cremma 16th and 17th century printed books'
 url: 'https://github.com/HTR-United/cremma-16-17-print'
 description: 'The cremma-16-17-print repository was created in order to make available transcription corpora for training OCR models for early modern books.'
-language: 'Early Modern French'
+language: 'Latin'
 other-languages:
-    - "Latin"
+    - "Early Modern French"
     - "Ancient Greek"
 script: 'Latin'
 time: 1550--1800
-hands: 6 # More fonts than hands..
+hands: 7 # More fonts than hands..
 license:
     - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
 format: 'Alto-XML'
 volume:
-    - {count: 1829, metric: "lines"}
-    - {count: 306, metric: "regions"}
-    - {count: 59818, metric: "characters"}
+    - {count: 2176, metric: "lines"}
+    - {count: 378, metric: "regions"}
+    - {count: 70372, metric: "characters"}
