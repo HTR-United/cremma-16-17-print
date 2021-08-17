@@ -19,5 +19,38 @@ jobs:
         python -m pip install --upgrade pip
         pip install https://github.com/HTR-United/htr-united-metadata-generator/archive/refs/heads/main.zip
     - name: Run Report
+      env:
+        ECHO-GITHUBWORKFLOW: "YES"
       run: |
         humGenerator --group fra/**/*.xml lat/**/*.xml
+        cat envs.txt >> $GITHUB_ENV
+    - name: Create Awesome Badge
+      uses: Schneegans/dynamic-badges-action@v1.1.0
+      with:
+        auth: ${{ secrets.GIST_SECRET }}
+        gistID: "393197b75eb2141cfb08611366dae701"
+        filename: "cremma-print-badges-chars.json"
+        label: "Transcribed Characters"
+        message: ${{ env.HTRUNITED_CHARS }}
+        color: informational
+        style: "flat-square"
+    - name: Create Awesome Badge for LINES
+      uses: Schneegans/dynamic-badges-action@v1.1.0
+      with:
+        auth: ${{ secrets.GIST_SECRET }}
+        gistID: "393197b75eb2141cfb08611366dae701"
+        filename: "cremma-print-badges-lines.json"
+        label: "Transcribed Characters"
+        message: ${{ env.HTRUNITED_LINES }}
+        color: informational
+        style: "flat-square"
+    - name: Create Awesome Badge for REGIONS
+      uses: Schneegans/dynamic-badges-action@v1.1.0
+      with:
+        auth: ${{ secrets.GIST_SECRET }}
+        gistID: "393197b75eb2141cfb08611366dae701"
+        filename: "cremma-print-badges-regions.json"
+        label: "Transcribed Characters"
+        message: ${{ env.HTRUNITED_REGNS }}
+        color: informational
+        style: "flat-square"
