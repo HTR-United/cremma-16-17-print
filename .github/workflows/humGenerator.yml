@@ -40,7 +40,7 @@ jobs:
         auth: ${{ secrets.GIST_SECRET }}
         gistID: "393197b75eb2141cfb08611366dae701"
         filename: "cremma-print-badges-lines.json"
-        label: "Transcribed Characters"
+        label: "Transcribed Lines"
         message: ${{ env.HTRUNITED_LINES }}
         color: informational
         style: "flat-square"
@@ -50,7 +50,7 @@ jobs:
         auth: ${{ secrets.GIST_SECRET }}
         gistID: "393197b75eb2141cfb08611366dae701"
         filename: "cremma-print-badges-regions.json"
-        label: "Transcribed Characters"
+        label: "Number of regions"
         message: ${{ env.HTRUNITED_REGNS }}
         color: informational
         style: "flat-square"
