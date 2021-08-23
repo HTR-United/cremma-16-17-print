@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Clérice
+    given-names: Thibault
+    orcid: https://orcid.org/0000-0002-0136-4434
+title: "CREMMA 16-18 Prints, a French and Latin dataset for HTR and segmentation of printed books"
+version: 0.0.1
+doi: 10.5281/zenodo.5235144
+date-released: 2021-08-23
