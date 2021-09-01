@@ -17,12 +17,10 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install https://github.com/HTR-United/htr-united-metadata-generator/archive/refs/heads/main.zip
+        pip install htr-united-metadata-generator
     - name: Run Report
-      env:
-        ECHO-GITHUBWORKFLOW: "YES"
       run: |
-        humGenerator --group fra/**/*.xml lat/**/*.xml
+        humGenerator --group fra/**/*.xml lat/**/*.xml --github-envs
         cat envs.txt >> $GITHUB_ENV
     - name: Create Awesome Badge
       uses: Schneegans/dynamic-badges-action@v1.1.0
