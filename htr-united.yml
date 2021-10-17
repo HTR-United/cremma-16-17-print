@@ -1,18 +1,55 @@
-
-title : 'Cremma 16th and 17th century printed books'
+schema: "https://htr-united.github.io/schema/2021-10-15.json"
+title : 'CREMMA Early Modern Books'
 url: 'https://github.com/HTR-United/cremma-16-17-print'
-description: 'The cremma-16-17-print repository was created in order to make available transcription corpora for training OCR models for early modern books.'
-language: 'Latin'
-other-languages:
-    - "Early Modern French"
-    - "Ancient Greek"
-script: 'Latin'
-time: 1550--1800
-hands: 7 # More fonts than hands..
+project-name: 'CREMMA'
+
+authors:
+    - name: 'Clérice'
+      surname: 'Thibault'
+      roles:
+      - 'transcriber'
+      - 'project-manager'
+description: 'Collection of book samples in early print forms, 16th to 17th century, in Latin and pre-orthographic French.'
+language:
+  - frm
+  - lat
+script: 
+  - Latn
+script-type: 'only-typed'
+time: 
+  notBefore: "1500"
+  notAfter: "1779"
+hands: 
+  count: '1-per-folder'
+  precision: 'estimated'
 license:
-    - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
 format: 'Alto-XML'
 volume:
-    - {count: 2176, metric: "lines"}
-    - {count: 378, metric: "regions"}
-    - {count: 70372, metric: "characters"}
+  - metric: 'lines'
+    count: 2603
+  - metric: 'characters'
+    count: 83728
+  - metric: 'regions'
+    count: 451
+  - metric: 'files'
+    count: 98
+sources:
+  - reference: 'Omnia Andreae Alciati v.c. emblemata cum commentariis'
+    link: 'http://pid.emory.edu/ark:/25593/b70rv'
+  - reference: '15.. 	Historia de duobus amantibus Eurialo et Lucretia '
+    link: 'https://gallica.bnf.fr/ark:/12148/bpt6k533863'
+  - reference: '1520 	Epigrammata clarissimi disertissimique viri Thomae Mori...'
+    link: 'https://doi.org/10.3931/e-rara-74397'
+  - reference: '1550 	La description de l'isle d'Utopie, oú est comprins '
+    link: 'https://gallica.bnf.fr/ark:/12148/bpt6k6566444g'
+  - reference: '1779 	Zoologia Danica, seu, Animalium Daniae et Norvegiae '
+    link: 'https://archive.org/details/zoologiadanicase01mlle'
+  - reference: 'L'Achileyde de Stace... traduction en vers, avec ...'
+    link: 'https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k3103841'
+  - reference: '1681 	Vigiliæ Rhetorum, Et Somnia Poetarvm, Symbolicè'
+    link: 'http://diglib.hab.de/drucke/qun-607-5/start.htm'
+  - reference: 'Aneau, Barthélemy: Picta Poesis - Lugduni : Pesnot, 1564'
+    link: 'http://diglib.hab.de/drucke/231-5-poet/start.htm'
+citation-file-link: 'https://raw.githubusercontent.com/HTR-United/cremma-16-17-print/main/CITATION.CFF'
+transcription-guidelines: 'Kept abbreviation and transcribed long s as long s'
