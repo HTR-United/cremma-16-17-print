@@ -41,11 +41,13 @@ sources:
     link: 'https://gallica.bnf.fr/ark:/12148/bpt6k533863'
   - reference: '1520 	Epigrammata clarissimi disertissimique viri Thomae Mori...'
     link: 'https://doi.org/10.3931/e-rara-74397'
-  - reference: '1550 	La description de l'isle d'Utopie, oú est comprins '
+  - reference: >
+          '1550 	La description de l'isle d'Utopie, oú est comprins '
     link: 'https://gallica.bnf.fr/ark:/12148/bpt6k6566444g'
   - reference: '1779 	Zoologia Danica, seu, Animalium Daniae et Norvegiae '
     link: 'https://archive.org/details/zoologiadanicase01mlle'
-  - reference: 'L'Achileyde de Stace... traduction en vers, avec ...'
+  - reference: >
+          'L'Achileyde de Stace... traduction en vers, avec ...'
     link: 'https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k3103841'
   - reference: '1681 	Vigiliæ Rhetorum, Et Somnia Poetarvm, Symbolicè'
     link: 'http://diglib.hab.de/drucke/qun-607-5/start.htm'
