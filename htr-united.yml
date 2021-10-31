@@ -1,4 +1,4 @@
-schema: "https://htr-united.github.io/schema/2021-10-15.json"
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
 title : 'CREMMA Early Modern Books'
 url: 'https://github.com/HTR-United/cremma-16-17-print'
 project-name: 'CREMMA'
