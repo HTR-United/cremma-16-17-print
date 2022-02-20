@@ -17,38 +17,23 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install htr-united-metadata-generator
+        pip install htr-united-metadata-generator htruc anybadge
     - name: Run Report
       run: |
-        humGenerator --group fra/**/*.xml lat/**/*.xml --github-envs
+        humGenerator --group fra/**/*.xml lat/**/*.xml --github-envs --to-json updated_metrics.json
         cat envs.txt >> $GITHUB_ENV
-    - name: Create Awesome Badge
-      uses: Schneegans/dynamic-badges-action@v1.1.0
-      with:
-        auth: ${{ secrets.GIST_SECRET }}
-        gistID: "393197b75eb2141cfb08611366dae701"
-        filename: "cremma-print-badges-chars.json"
-        label: "Transcribed Characters"
-        message: ${{ env.HTRUNITED_CHARS }}
-        color: informational
-        style: "flat-square"
-    - name: Create Awesome Badge for LINES
-      uses: Schneegans/dynamic-badges-action@v1.1.0
-      with:
-        auth: ${{ secrets.GIST_SECRET }}
-        gistID: "393197b75eb2141cfb08611366dae701"
-        filename: "cremma-print-badges-lines.json"
-        label: "Transcribed Lines"
-        message: ${{ env.HTRUNITED_LINES }}
-        color: informational
-        style: "flat-square"
-    - name: Create Awesome Badge for REGIONS
-      uses: Schneegans/dynamic-badges-action@v1.1.0
-      with:
-        auth: ${{ secrets.GIST_SECRET }}
-        gistID: "393197b75eb2141cfb08611366dae701"
-        filename: "cremma-print-badges-regions.json"
-        label: "Number of regions"
-        message: ${{ env.HTRUNITED_REGNS }}
-        color: informational
-        style: "flat-square"
+    - name: "Automatically update the catalog's volume key on master branch"
+      if: github.ref == 'refs/heads/main'
+      run: |
+        htruc update-volumes htr-united.yml updated_metrics.json --inplace
+        # Generate badges
+        mkdir -p badges
+        anybadge --value=${{ env.HTRUNITED_CHARS }} --file=badges/characters.svg --label=Characters --color=#007ec6 --overwrite --template .github/assets/badge.svg
+        anybadge --value=${{ env.HTRUNITED_REGNS }} --file=badges/regions.svg --label=Regions --color=#007ec6 --overwrite --template .github/assets/badge.svg
+        anybadge --value=${{ env.HTRUNITED_LINES }} --file=badges/lines.svg --label=Lines --color=#007ec6 --overwrite --template .github/assets/badge.svg
+        anybadge --value=${{ env.HTRUNITED_FILES }} --file=badges/files.svg --label="XML Files" --color=#007ec6 --overwrite --template .github/assets/badge.svg
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add htr-united.yml ./badges/
+        git commit -m "[Automatic] Update of the Catalog & Badges" || echo "Nothing to commit"
+        git push
