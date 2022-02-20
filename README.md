@@ -1,6 +1,7 @@
 # CREMMA Early Modern Books
 
-![Lines Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ponteineptique/393197b75eb2141cfb08611366dae701/raw/cremma-print-badges-lines.json) ![Chars Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ponteineptique/393197b75eb2141cfb08611366dae701/raw/cremma-print-badges-chars.json) ![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ponteineptique/393197b75eb2141cfb08611366dae701/raw/cremma-print-badges-regions.json)
+
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
 Collection of book samples in early print forms, 16th to 17th century, in Latin and pre-orthographic French.
 
