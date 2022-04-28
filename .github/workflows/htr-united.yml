@@ -20,7 +20,7 @@ jobs:
         pip install chocomufin==0.0.4
     - name: Run ChocoMufin
       run: |
-        chocomufin control table.csv fra/**/*.xml lat/**/*.xml
+        chocomufin -n NFD control table.csv fra/**/*.xml lat/**/*.xml
   HTRUC:  # Tests that the catalog is correctly written
     runs-on: ubuntu-latest
     steps:
