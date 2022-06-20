@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: CREMMA Early Modern Books
 url: https://github.com/HTR-United/cremma-16-17-print
 project-name: CREMMA
@@ -14,7 +14,7 @@ language:
 - frm
 - lat
 script:
-- Latn
+- iso: Latn
 script-type: only-typed
 time:
   notBefore: '1500'
@@ -46,9 +46,7 @@ sources:
   link: https://gallica.bnf.fr/ark:/12148/bpt6k6566444g
 - reference: "1779 \tZoologia Danica, seu, Animalium Daniae et Norvegiae "
   link: https://archive.org/details/zoologiadanicase01mlle
-- reference: '''L''Achileyde de Stace... traduction en vers, avec ...''
-
-    '
+- reference: '''L''Achileyde de Stace... traduction en vers, avec ...'''
   link: https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k3103841
 - reference: "1681 \tVigili\xE6 Rhetorum, Et Somnia Poetarvm, Symbolic\xE8"
   link: http://diglib.hab.de/drucke/qun-607-5/start.htm
@@ -56,3 +54,4 @@ sources:
   link: http://diglib.hab.de/drucke/231-5-poet/start.htm
 citation-file-link: https://raw.githubusercontent.com/HTR-United/cremma-16-17-print/main/CITATION.CFF
 transcription-guidelines: Kept abbreviation and transcribed long s as long s
+production-software: eScriptorium + Kraken
