@@ -1,3 +1,5 @@
+<img src="./cremma_print-16-17.png" width="200" align=right>
+
 # CREMMA Early Modern Books
 
 
